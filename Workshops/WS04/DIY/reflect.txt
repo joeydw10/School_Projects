@@ -1,6 +1,0 @@
-This workshop I learned how to make constructors and destructors which sounded a lot harder in my head however become very simple the constructor goes right at the start when
-the class is being made it will do whatever you give it so setting the defaults of values of your class is very good constructor thing to do and for destructors you do the 
-oposite of the constructor if you have any dynamic memory you want to clear it this is the perfect spot to do so because right before the class goes out of scope it kills itself
-by getting rid of all dynamic memory we needed to use. The hardest part of the workshop was getting the whole control room function and checking for if the depolyed is false
-i had to get rid of the true/false check because for a safe state of a boolean is false however if depolyed was false then it would not work so I just checked for everything else
-to make sure it was good in the process. after I stopped checking for false it all made sense and worked perfectly fine

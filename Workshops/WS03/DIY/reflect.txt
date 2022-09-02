@@ -1,9 +1,0 @@
-This workshop was pretty cool aswell I learned how to keep data private and how to making floating point values
-im not sure if I did it the best way but I did have to make a temp class for both the trains to make sure they
-were in a safe empty state to check since the transfer function is a global and not in the class so I had to 
-get the private class values another way since that is the part of the privacy part I have learned also what
-difference between methods and functions methods are in a class and functions are global outside of a class
-I also learned safe states more in depth to make sure nothing is gonna break the program i'm learning more 
-about modular programming and it is really cool concept and it was cool using a function to get the value
-from a private standpoint it is really cool unthough it is harder but it is way better for us to know 1000%
-excited to see what else more we learn in OOP!
