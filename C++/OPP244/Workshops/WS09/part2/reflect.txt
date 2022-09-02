@@ -1,0 +1,8 @@
+This workshop has been pretty cool to work on and the milestone 4 I need fardad's help for milestone for which all makes sense how what he
+did and I never even thought of putting text in the state to make it a bad state which makes total sense because the state is good when
+it is null or empty because that means you have no errors and that the object with the state is good to print save, load etc. No wonder
+why I was stuck for so long but Fardad showing me that and saying my code looks good made me feel awesome I have been seeing my code become
+better and better throughout the semester and im very proud of myself. Workshop 9 was not to bad I just had to read about how to read files
+and save them and i'm just gonna say this c++ way of saving and loading in a file is 1000% times better than the C way in c++ we just do
+it like cout or cin for loading or saving it is so much better and way easier to understand in a way which makes more sesne to me. However c++
+is harder in other ways but we have the freedom to do all the other things which is great!
