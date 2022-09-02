@@ -1,6 +1,0 @@
-This workshop I learned how to do operator overloads and type conversions on a class I have also gotten better at doing the one line if statements with ? : that is very helpful
-because now i understand them pretty well and I also wanted to try if i just tried to cast the whole equation as a double when doing the helper functions to see if it would work
-but it did not so i changed to be (double)left + (double)right and not double (left + double) i got an error with the second one so i changed it to the first one so that was nice
-which also makes sense since how the operator conversion works it only takes one of them. I'm not really sure what the difference is using the operator double or int etc to get 
-a value when we could just do a return and maybe call it getInt or getDouble type of deal but doing this conversion stuff is really cool aswell and awesome to learn. I can see how
-this will get crazy at the end of the year

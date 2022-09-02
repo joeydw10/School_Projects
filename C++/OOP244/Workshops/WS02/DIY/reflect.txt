@@ -1,5 +1,0 @@
-This workshop was amazing using dynamic memory was really cool and really cool to see how it works and is not as bad as I would have thought at the start after I ran it through
-my head enough times I understood it. Overloading functions was also pretty cool it would changed depending what you gave them I thought that was pretty cool the most part that
-caused me difficulty was doing a sort on the list I went with a bubble sort for this one since I'm pretty sure it is the easiest and I understood it the most that took me a couple of
-hours to write it and test it and make sure it was working the right way. I'm all ready learning new things and it is a blast so far! I know it is getting to be more more work each
-time but so far i am enjoying it a lot.
