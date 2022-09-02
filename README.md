@@ -1,4 +1,4 @@
 # School_Projects
 
 
-I Did things that made things
+I did things that made things
