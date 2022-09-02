@@ -1,0 +1,5 @@
+This workshop was by far my hardest to I have done it was so much to keep track of but I have managed to pull it off I have learned to do ostream and istream in a method function
+now which is really cool I did more advanced function making and using overloads and encapsliation I am impressed with what I did this workshop it was a lot to take in and I over
+came it it was hard to keep track of everything but I knew it would pay off if it did this workshop which in this case I did! I was studying very hard for this workshop
+targeted what I'm struggling with the most and that was the whole istr and ostr part of functions but now I feel I understand it a lot better now and I can work with them I noticed
+that I was rewriting code a lot so I made functions to stop the rewrite code which in turn saved a lot of other time figuring out every other problem.

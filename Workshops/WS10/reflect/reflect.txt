@@ -1,0 +1,8 @@
+this workshop was very weird to me it just felt so different then the normal code using templates felt like normal english to me like someone
+could pick it up type of deal. It overall was not to bad difficulty wise and templates will very much help later in my programming life
+since I can only imagine what we can do with it and it will be very cool to learn that later for the last workshop it was nice to end on a
+easier workshop for this class. overall it took me a little bit to understand now to call a template and use it with another template
+but it does make sense how it works and not to bad for it to be understandable it has been so long since I haven't programed only the 
+project which I finished a couple of days I was so use to using cout and endl that I forgot to add iostream but because I was just using
+cout all I needed was ostream and since we are in a header we don't use namespace so I had to also use std::cout and im just realzing now
+that i forgot to add the comments for the template functions so now I'm going to resubmit it with the proper comments

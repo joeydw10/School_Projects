@@ -1,0 +1,9 @@
+I learned how to print text with a more OOP basis instead of using scanf, printf and \n we use cout, cin and endl I also learned what
+namespaces are and how they work. All the code you write you wrap it with a namespace in our case it will be sdds i know also understand
+more on how databases would look up something. they just turn the input to lowercase or upper it would do both the same then look for
+it with the same exact case sensitivity. The most difficult part for me was I forgot adding an extra char to my array when adding
+because it adds a '\0' to the end which takes a spot this made me get confused. Also I think I experienced a visual studio bug
+because my name string was making the first char a '\0' and it had 51 max lenth (50) and i was even searching around the web to find
+no answers because it was happening right after it read the line i didn't even do anything to change the string at all. I was very
+annoyed at it but i tried another string var and it worked perfectly then I switched back to the name string and it work perfectly.
+It was a very cool first workshop it made me understand the first cruical thing about C++ namespaces. 

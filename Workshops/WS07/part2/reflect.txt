@@ -1,0 +1,6 @@
+This workshop was pretty cool it was a rollercoster though I found out at the very end right before I was going to hand in the workshop that I did it wrong in pack I had three
+extra values I read the github wrong and thought I needed three atributes in the pack class but after I checked again I noticed that we only use one luckly I was already
+debugging my issue with the wine part by the time I noticed everything I already made worked just need to add the change using only one atribute I was very confused on how to 
+use the base operator+= untill I was reading and then tried Container:: and sure enough it popped right out then I had to wrap () around my equation and then everything worked.
+I learned how to use dervived classes and having a base they are very useful and throughout this course I have been using more and more oop and it is really cool I'm learning a lot
+which is great it is what I came to college to do.
